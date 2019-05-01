@@ -1,2 +1,2 @@
 # chatRoom
-Chatroom application with SSL Socket (including client and server)
+Chatroom application based on SSL Socket connection (including client and server)
